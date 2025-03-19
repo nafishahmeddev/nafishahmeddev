@@ -1,19 +1,93 @@
-- 👋 Hi, I’m @nafishahmeddev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Nafish Ahmed 👋
 
-<!---
-nafishahmeddev/nafishahmeddev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile Views](https://komarev.com/ghpvc/?username=nafishahmeddev)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I'm a passionate Flutter developer from Bengaluru, India, currently working at Softway Solutions. I enjoy building mobile applications that provide seamless user experiences.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaydinesh02&show_icons=true&locale=en&layout=compact" alt="akshaydinesh02" /></p>
+## 🔧 Technologies & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaydinesh02&show_icons=true&locale=en" alt="akshaydinesh02" /></p>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafishahmeddev&" alt="nafishahmeddev" /></p>
+## 🌟 Featured Projects
+
+### [FinTracker](https://github.com/nafishahmeddev/fintracker)
+
+FinTracker is a powerful expense tracker app built with Flutter, designed to help you effortlessly manage your finances.
+
+**Features:**
+
+- Track daily expenses
+- Categorize transactions
+- View spending insights
+
+**Technologies Used:**
+
+- Flutter
+- Dart
+- Firebase
+
+### [Furkan Flutter](https://github.com/nafishahmeddev/furkan.flutter)
+
+A starting point for Flutter applications, providing essential resources and templates for developers.
+
+**Features:**
+
+- Flutter project setup
+- Essential dependencies
+- Sample code snippets
+
+**Technologies Used:**
+
+- Flutter
+- Dart
+
+## 📈 GitHub Stats
+
+![Nafish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nafishahmeddev&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+## 💼 GitHub Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nafishahmeddev&layout=compact&theme=radical)
+
+## 🌱 Currently Learning
+
+I'm expanding my knowledge in:
+
+- Advanced Flutter concepts
+- State management solutions (e.g., Riverpod, Provider)
+- Backend integration with Firebase and REST APIs
+- CI/CD pipelines using GitHub Actions
+
+## 🛠️ Tools I Use Regularly
+
+- **Version Control**: Git & GitHub
+- **CI/CD**: GitHub Actions
+- **Project Management**: Trello, Jira
+- **Collaboration**: Slack, Microsoft Teams
+- **Text Editor**: VSCode
+- **Database**: Firebase, SQLite
+- **Testing**: Flutter's testing framework, Mockito
+- **API Testing**: Postman
+
+## 🤝 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/nafish-ahmed-dev)
+- [Personal Website](https://nafish.me)
+- [Email](mailto:hello@nafish.me)
+
+Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects!
+
+---
+
+#### 🎯 Fun Fact:
+
+- **I love contributing to open-source projects** and am always looking for opportunities to learn and collaborate with other developers.
+
+---
