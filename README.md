@@ -1,45 +1,81 @@
-# Nafish Ahmed
+<a href="https://nafish.me">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+    <img src="assets/header-dark.svg" alt="Nafish Ahmed. I build wallet backends and ship my own apps." width="100%">
+  </picture>
+</a>
 
-Senior Full Stack Developer at **Vimo Software**, Bengaluru. Founder of **[IDEXA](https://idexa.app)**, an independent app studio.
+<p>
+  <a href="https://nafish.me"><b>nafish.me</b></a> &nbsp;·&nbsp;
+  <a href="https://idexa.app"><b>idexa.app</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/nafish-ahmed-dev">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:hello@nafish.me">hello@nafish.me</a>
+</p>
 
-I build wallet and remittance backends in Node.js and TypeScript, with React and Next.js on the front, and ship local-first mobile apps on the side.
+```ts
+const nafish = {
+  role: 'Senior Full Stack Developer',
+  at: 'Vimo Software', // rejoined in Feb 2025, after a year at Softway
+  based: 'Bengaluru, India',
+  builds: ['wallet and remittance backends', 'exchange integrations', 'API gateways'],
+  stack: ['TypeScript', 'Node.js', 'React', 'Next.js', 'React Native', 'Flutter'],
+  sideProject: { name: 'IDEXA', what: 'an independent app studio', url: 'https://idexa.app' },
+} as const;
+```
 
-[nafish.me](https://nafish.me) · [LinkedIn](https://www.linkedin.com/in/nafish-ahmed-dev) · [hello@nafish.me](mailto:hello@nafish.me)
+## The day job
 
-## Now
+**Vimo Software** · *Senior Full Stack Developer, Feb 2025 to now*
+Real-time transaction confirmation, financial and blockchain API integrations, encrypted secrets infrastructure, API gateway services, and the move from legacy code to React, Node.js and TypeScript.
 
-**Vimo Software** · Senior Full Stack Developer · Feb 2025 to now
-Rejoined Vimo after Softway. Real-time transaction confirmation, financial and blockchain API integrations, encrypted secrets infrastructure, API gateway services, and the move from legacy code to React, Node.js and TypeScript.
+<details>
+<summary><b>Before that</b></summary>
+<br>
 
-## Before
-
-| When | Role | What I worked on |
+| | | |
 | --- | --- | --- |
-| Mar 2024 to Jan 2025 | Software Engineer, **Softway** | Backend services and Redis-cached dashboards for Daikin Cloud Services, on the Serverless Framework with AWS Lambda, AppSync and ECS |
-| Mar 2022 to Mar 2024 | Full Stack Developer, **Vimo Software** | The Haaki audiobook platform, wallet infrastructure, ETH, Binance, Kraken and TRON integrations, and the Sarraf and Sendony fiat systems |
-| Aug 2021 to Mar 2022 | Full Stack Developer, **Avital Software** | Core backend and admin panel for SuperMD, a teleconsultation platform: REST services, secure data handling, role-based access control |
+| **Softway** | Software Engineer · Mar 2024 to Jan 2025 | Backend services and Redis-cached dashboards for Daikin Cloud Services, on the Serverless Framework with AWS Lambda, AppSync and ECS |
+| **Vimo Software** | Full Stack Developer · Mar 2022 to Mar 2024 | The Haaki audiobook platform, wallet infrastructure, ETH, Binance, Kraken and TRON integrations, and the Sarraf and Sendony fiat systems |
+| **Avital Software** | Full Stack Developer · Aug 2021 to Mar 2022 | Core backend and admin panel for SuperMD, a teleconsultation platform |
 
-## IDEXA
+</details>
 
-Apps from my studio. Most keep your data on the phone and need no account.
+```mermaid
+gantt
+  dateFormat YYYY-MM
+  axisFormat %Y
+  section Avital
+    SuperMD                      :2021-08, 2022-03
+  section Vimo
+    Wallet, exchanges and Haaki  :2022-03, 2024-03
+    Senior Full Stack Developer  :active, 2025-02, 2026-12
+  section Softway
+    Daikin Cloud Services        :2024-03, 2025-01
+```
 
-| App | What it is | Status |
-| --- | --- | --- |
-| [Fintraq](https://idexa.app/fintraq/) | Offline money tracker | On Google Play |
-| [Orbit](https://idexa.app/orbit/) | Bill and life reminders | On Google Play |
-| [Dish Dash](https://idexa.app/dishdash/) | Food puzzle game | On Google Play |
-| [Tilewit](https://idexa.app/tilewit/) | Puzzle duels | On Google Play |
-| [Twin Step](https://idexa.app/twinstep/) | Mirror puzzle | On Google Play |
-| [Tailstamp](https://idexa.app/tailstamp/) | Pet health records | In progress |
-| [Grau](https://idexa.app/grau/) | Jiu-jitsu journal | In progress |
-| [Fuzzlets](https://idexa.app/fuzzlets/) | Cozy sort puzzle | In progress |
-| [Loose Ends](https://idexa.app/loose-ends/) | Thread puzzle | In progress |
+## The studio
 
-## Stack
+Apps from **[IDEXA](https://idexa.app)**. Most keep your data on the phone and need no account.
 
-- **Languages:** TypeScript, JavaScript, Dart, PHP
-- **Backend:** Node.js, Express, Hono, REST, WebSocket, MQTT, microservices
-- **Frontend:** React, Next.js, Angular, Svelte, Astro
-- **Mobile:** React Native, Expo, Flutter
-- **Data:** MongoDB, MySQL, Redis, SQLite
-- **Cloud:** AWS Lambda, AppSync, ECS, EC2, S3, Serverless Framework, Docker, Cloudflare Workers
+<table>
+  <tr>
+    <td align="center" width="20%"><a href="https://idexa.app/fintraq/"><img src="assets/apps/fintraq.webp" width="64" alt=""><br><b>Fintraq</b></a><br><sub>Offline money tracker</sub></td>
+    <td align="center" width="20%"><a href="https://idexa.app/orbit/"><img src="assets/apps/orbit.webp" width="64" alt=""><br><b>Orbit</b></a><br><sub>Bill and life reminders</sub></td>
+    <td align="center" width="20%"><a href="https://idexa.app/dishdash/"><img src="assets/apps/dishdash.webp" width="64" alt=""><br><b>Dish Dash</b></a><br><sub>Food puzzle game</sub></td>
+    <td align="center" width="20%"><a href="https://idexa.app/tilewit/"><img src="assets/apps/tilewit.webp" width="64" alt=""><br><b>Tilewit</b></a><br><sub>Puzzle duels</sub></td>
+    <td align="center" width="20%"><a href="https://idexa.app/twinstep/"><img src="assets/apps/twinstep.webp" width="64" alt=""><br><b>Twin Step</b></a><br><sub>Mirror puzzle</sub></td>
+  </tr>
+</table>
+
+<sub><b>On the way:</b> <a href="https://idexa.app/tailstamp/">Tailstamp</a> (pet health records) · <a href="https://idexa.app/grau/">Grau</a> (jiu-jitsu journal) · <a href="https://idexa.app/fuzzlets/">Fuzzlets</a> (cozy sort puzzle) · <a href="https://idexa.app/loose-ends/">Loose Ends</a> (thread puzzle)</sub>
+
+## The toolbox
+
+| | |
+| --- | --- |
+| **Languages** | TypeScript · JavaScript · Dart · PHP |
+| **Backend** | Node.js · Express · Hono · REST · WebSocket · MQTT · microservices |
+| **Frontend** | React · Next.js · Angular · Svelte · Astro |
+| **Mobile** | React Native · Expo · Flutter |
+| **Data** | MongoDB · MySQL · Redis · SQLite |
+| **Cloud** | AWS Lambda · AppSync · ECS · EC2 · S3 · Serverless Framework · Docker · Cloudflare Workers |
