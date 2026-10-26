@@ -1,93 +1,45 @@
-# Hi there, I'm Nafish Ahmed 👋
+# Nafish Ahmed
 
-![Profile Views](https://komarev.com/ghpvc/?username=nafishahmeddev)
+Senior Full Stack Developer at **Vimo Software**, Bengaluru. Founder of **[IDEXA](https://idexa.app)**, an independent app studio.
 
-I'm a passionate Flutter developer from Bengaluru, India, currently working at Softway Solutions. I enjoy building mobile applications that provide seamless user experiences.
+I build wallet and remittance backends in Node.js and TypeScript, with React and Next.js on the front, and ship local-first mobile apps on the side.
 
-## 🔧 Technologies & Tools
+[nafish.me](https://nafish.me) · [LinkedIn](https://www.linkedin.com/in/nafish-ahmed-dev) · [hello@nafish.me](mailto:hello@nafish.me)
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+## Now
 
-## 🌟 Featured Projects
+**Vimo Software** · Senior Full Stack Developer · Feb 2025 to now
+Rejoined Vimo after Softway. Real-time transaction confirmation, financial and blockchain API integrations, encrypted secrets infrastructure, API gateway services, and the move from legacy code to React, Node.js and TypeScript.
 
-### [FinTracker](https://github.com/nafishahmeddev/fintracker)
+## Before
 
-FinTracker is a powerful expense tracker app built with Flutter, designed to help you effortlessly manage your finances.
+| When | Role | What I worked on |
+| --- | --- | --- |
+| Mar 2024 to Jan 2025 | Software Engineer, **Softway** | Backend services and Redis-cached dashboards for Daikin Cloud Services, on the Serverless Framework with AWS Lambda, AppSync and ECS |
+| Mar 2022 to Mar 2024 | Full Stack Developer, **Vimo Software** | The Haaki audiobook platform, wallet infrastructure, ETH, Binance, Kraken and TRON integrations, and the Sarraf and Sendony fiat systems |
+| Aug 2021 to Mar 2022 | Full Stack Developer, **Avital Software** | Core backend and admin panel for SuperMD, a teleconsultation platform: REST services, secure data handling, role-based access control |
 
-**Features:**
+## IDEXA
 
-- Track daily expenses
-- Categorize transactions
-- View spending insights
+Apps from my studio. Most keep your data on the phone and need no account.
 
-**Technologies Used:**
+| App | What it is | Status |
+| --- | --- | --- |
+| [Fintraq](https://idexa.app/fintraq/) | Offline money tracker | On Google Play |
+| [Orbit](https://idexa.app/orbit/) | Bill and life reminders | On Google Play |
+| [Dish Dash](https://idexa.app/dishdash/) | Food puzzle game | On Google Play |
+| [Tilewit](https://idexa.app/tilewit/) | Puzzle duels | On Google Play |
+| [Twin Step](https://idexa.app/twinstep/) | Mirror puzzle | On Google Play |
+| [Tailstamp](https://idexa.app/tailstamp/) | Pet health records | In progress |
+| [Grau](https://idexa.app/grau/) | Jiu-jitsu journal | In progress |
+| [Fuzzlets](https://idexa.app/fuzzlets/) | Cozy sort puzzle | In progress |
+| [Loose Ends](https://idexa.app/loose-ends/) | Thread puzzle | In progress |
 
-- Flutter
-- Dart
-- Firebase
+## Stack
 
-### [Furkan Flutter](https://github.com/nafishahmeddev/furkan.flutter)
-
-A starting point for Flutter applications, providing essential resources and templates for developers.
-
-**Features:**
-
-- Flutter project setup
-- Essential dependencies
-- Sample code snippets
-
-**Technologies Used:**
-
-- Flutter
-- Dart
-
-## 📈 GitHub Stats
-
-![Nafish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nafishahmeddev&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-## 💼 GitHub Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nafishahmeddev&layout=compact&theme=radical)
-
-## 🌱 Currently Learning
-
-I'm expanding my knowledge in:
-
-- Advanced Flutter concepts
-- State management solutions (e.g., Riverpod, Provider)
-- Backend integration with Firebase and REST APIs
-- CI/CD pipelines using GitHub Actions
-
-## 🛠️ Tools I Use Regularly
-
-- **Version Control**: Git & GitHub
-- **CI/CD**: GitHub Actions
-- **Project Management**: Trello, Jira
-- **Collaboration**: Slack, Microsoft Teams
-- **Text Editor**: VSCode
-- **Database**: Firebase, SQLite
-- **Testing**: Flutter's testing framework, Mockito
-- **API Testing**: Postman
-
-## 🤝 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/nafish-ahmed-dev)
-- [Personal Website](https://nafish.me)
-- [Email](mailto:hello@nafish.me)
-
-Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects!
-
----
-
-#### 🎯 Fun Fact:
-
-- **I love contributing to open-source projects** and am always looking for opportunities to learn and collaborate with other developers.
-
----
+- **Languages:** TypeScript, JavaScript, Dart, PHP
+- **Backend:** Node.js, Express, Hono, REST, WebSocket, MQTT, microservices
+- **Frontend:** React, Next.js, Angular, Svelte, Astro
+- **Mobile:** React Native, Expo, Flutter
+- **Data:** MongoDB, MySQL, Redis, SQLite
+- **Cloud:** AWS Lambda, AppSync, ECS, EC2, S3, Serverless Framework, Docker, Cloudflare Workers
