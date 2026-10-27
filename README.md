@@ -65,9 +65,13 @@ Apps from **[IDEXA](https://idexa.app)**. Most keep your data on the phone and n
     <td align="center" width="20%"><a href="https://idexa.app/tilewit/"><img src="assets/apps/tilewit.webp" width="64" alt=""><br><b>Tilewit</b></a><br><sub>Puzzle duels</sub></td>
     <td align="center" width="20%"><a href="https://idexa.app/twinstep/"><img src="assets/apps/twinstep.webp" width="64" alt=""><br><b>Twin Step</b></a><br><sub>Mirror puzzle</sub></td>
   </tr>
+  <tr>
+    <td align="center" width="20%"><a href="https://idexa.app/fuzzlets/"><img src="assets/apps/fuzzlets.webp" width="64" alt=""><br><b>Fuzzlets</b></a><br><sub>Cozy sort puzzle</sub></td>
+    <td align="center" width="20%"><a href="https://idexa.app/grau/"><img src="assets/apps/grau.webp" width="64" alt=""><br><b>Grau</b></a><br><sub>Jiu-jitsu journal</sub></td>
+  </tr>
 </table>
 
-<sub><b>On the way:</b> <a href="https://idexa.app/tailstamp/">Tailstamp</a> (pet health records) · <a href="https://idexa.app/grau/">Grau</a> (jiu-jitsu journal) · <a href="https://idexa.app/fuzzlets/">Fuzzlets</a> (cozy sort puzzle) · <a href="https://idexa.app/loose-ends/">Loose Ends</a> (thread puzzle)</sub>
+<sub><b>On the way:</b> <a href="https://idexa.app/tailstamp/">Tailstamp</a> (pet health records) · <a href="https://idexa.app/loose-ends/">Loose Ends</a> (thread puzzle)</sub>
 
 ## The toolbox
 
