@@ -6,6 +6,7 @@
 </a>
 
 <p>
+  <img src="assets/avatar.webp" width="56" height="56" alt="Nafish Ahmed" align="left">
   <a href="https://nafish.me"><b>nafish.me</b></a> &nbsp;·&nbsp;
   <a href="https://idexa.app"><b>idexa.app</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/nafish-ahmed-dev">LinkedIn</a> &nbsp;·&nbsp;
