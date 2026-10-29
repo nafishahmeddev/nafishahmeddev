@@ -68,10 +68,11 @@ Apps from **[IDEXA](https://idexa.app)**. Most keep your data on the phone and n
   <tr>
     <td align="center" width="20%"><a href="https://idexa.app/fuzzlets/"><img src="assets/apps/fuzzlets.webp" width="64" alt=""><br><b>Fuzzlets</b></a><br><sub>Cozy sort puzzle</sub></td>
     <td align="center" width="20%"><a href="https://idexa.app/grau/"><img src="assets/apps/grau.webp" width="64" alt=""><br><b>Grau</b></a><br><sub>Jiu-jitsu journal</sub></td>
+    <td align="center" width="20%"><a href="https://idexa.app/loose-ends/"><img src="assets/apps/loose-ends.webp" width="64" alt=""><br><b>Loose Ends</b></a><br><sub>Thread puzzle</sub></td>
   </tr>
 </table>
 
-<sub><b>On the way:</b> <a href="https://idexa.app/tailstamp/">Tailstamp</a> (pet health records) · <a href="https://idexa.app/loose-ends/">Loose Ends</a> (thread puzzle)</sub>
+<sub><b>On the way:</b> <a href="https://idexa.app/tailstamp/">Tailstamp</a> (pet health records)</sub>
 
 ## The toolbox
 
